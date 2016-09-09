@@ -10,6 +10,9 @@ export default {
   GREET: true,
   // allow api calls
   ENABLE_API: true,
+  // api username and password
+  API_USERNAME: "root",
+  API_PASSWORD: "1337",
 
   // Server settings
   MAX_CONNECTIONS: 64,
