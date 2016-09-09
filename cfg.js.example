@@ -9,7 +9,7 @@ export default {
   // show greeting
   GREET: true,
   // allow api calls
-  ENABLE_API: true,
+  API_ENABLE: true,
 
   // Server settings
   MAX_CONNECTIONS: 64,
